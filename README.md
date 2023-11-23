@@ -3,7 +3,7 @@ In this project I have used various Machine Learning Classification Models to pr
 
 ## Tech Stack
 ScikitLearn, 
-Panda, 
+Pandas, 
 Numpy,
 Seaborn,
 Matplotlib,
